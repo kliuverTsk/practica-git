@@ -1,0 +1,36 @@
+[33mcommit b56bdff1a2ba820d4916dfbdd6bf3737204d9b79[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m)[m
+Merge: 9be67d4 943904c
+Author: kliuvert <kliuvertfigueroa@gmail.com>
+Date:   Fri Aug 16 17:04:03 2024 -0300
+
+    probando fusion merge
+
+[33mcommit 9be67d4ffae4684efc429289f70288e9cd5dc516[m
+Author: kliuvert <kliuvertfigueroa@gmail.com>
+Date:   Fri Aug 16 11:20:15 2024 -0300
+
+    commit de la rama login
+
+[33mcommit 943904cc84ef9830a26c6640bd1da3045140f2ea[m[33m ([m[1;32mmain[m[33m)[m
+Author: kliuvert <kliuvertfigueroa@gmail.com>
+Date:   Fri Aug 16 11:17:07 2024 -0300
+
+    modificado commit
+
+[33mcommit 858ad61b769539db6ef1db0aa9d7750fc0030066[m[33m ([m[1;33mtag: [m[1;33mclass_1[m[33m)[m
+Author: kliuvert <kliuvertfigueroa@gmail.com>
+Date:   Fri Aug 9 19:05:07 2024 -0300
+
+    actualizados
+
+[33mcommit e6bf4af0d66eec52dd750136359783e01ee50dd3[m
+Author: kliuvert <kliuvertfigueroa@gmail.com>
+Date:   Fri Aug 9 19:02:12 2024 -0300
+
+    mi segundo commit
+
+[33mcommit 05f3231c06c058589740bf68ae503f827376cd28[m
+Author: kliuvert <kliuvertfigueroa@gmail.com>
+Date:   Tue Aug 6 11:53:49 2024 -0300
+
+    mi primer commit
